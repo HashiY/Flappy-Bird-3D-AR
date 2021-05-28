@@ -14,3 +14,6 @@ Se a camera detectar a imagem configurada, surge em cima da imagem o jogo.
 
 カメラが設定された画像を検出すると、ゲームが画像の上に表示されます。
 
+# IMAGE
+
+![alt text](https://github.com/HashiY/Plataforma-Aventura-3D-AR/blob/main/felpudoArCardX_scaled.jpg)
