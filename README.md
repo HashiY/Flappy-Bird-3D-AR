@@ -6,7 +6,7 @@ Udemyのコースで勉強しました - Aprenda Unity Programando 7 Jogos
 
 https://www.udemy.com/course/curso-completo-unity-3d/
 
-![image](https://user-images.githubusercontent.com/47865897/119909711-f29ff400-bf2b-11eb-9c4c-3236f734e9d8.png)
+![image](https://user-images.githubusercontent.com/47865897/154869173-97a3c415-3762-4a95-aab0-298eb1eef656.png)
 
 # Explicação - 説明
 
