@@ -45,5 +45,11 @@ public class ActionMenuIntro : MonoBehaviour
         {
             Application.LoadLevel("aviao3D");
         }
+        if (GUI.Button(new Rect(Screen.width / 2 - larguraBotao / 2, Screen.height / 2 + alturaBotao + 90, larguraBotao, alturaBotao), "Sair"))
+        {
+            Application.Quit();
+        }
+
+        
     }
 }
